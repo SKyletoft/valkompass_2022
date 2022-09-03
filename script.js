@@ -39,7 +39,7 @@ const QUESTIONS = {
 		display_options: true,
 	},
 	internet: {
-		text: "Internet är dåligt",
+		text: "Internet och yttrandefrihet är dåligt",
 		yes: "s",
 		no: "kompetens",
 		display_options: true,
