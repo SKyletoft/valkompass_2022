@@ -50,7 +50,7 @@ const QUESTIONS = {
 		display_options: false,
 	},
 	v: {
-		text: "Du borde rösta på Vänstern",
+		text: "Du borde rösta på Kommunisterna",
 		image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/V%C3%A4nsterpartiet_logo.svg/1280px-V%C3%A4nsterpartiet_logo.svg.png",
 		display_options: false,
 	},
