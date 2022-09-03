@@ -1,0 +1,56 @@
+body {
+	background-color: #DDDDDD;
+}
+
+div {
+	box-shadow: 5px 5px 5px #AAAAAA;
+	text-align: center;
+	vertical-align: middle;
+	border-radius: 15px;
+	height: 150px;
+	justify-content: center;
+	align-items: center;
+	display: flex;
+}
+
+#question {
+	background-color: white;
+	margin-top: 10%;
+	margin-bottom: 2.5%;
+	margin-left: 15%;
+	margin-right: 15%;
+	text-align: center;
+	font-size: 25px;
+}
+
+#no {
+	background-color: #CC0000;
+	width: 30%;
+	float: left;
+	margin-left: 15%;
+	margin-right: 5%;
+	text-align: center;
+	font-size: 35px;
+}
+
+#no:hover {
+	background-color: #DD0000;
+}
+
+#yes {
+	background-color: #00CC00;
+	width: 30%;
+	float: right;
+	margin-left: 5%;
+	margin-right: 15%;
+	text-align: center;
+	font-size: 35px;
+}
+
+#yes:hover {
+	background-color: #00DD00;
+}
+
+img {
+	width: 20%;
+}
